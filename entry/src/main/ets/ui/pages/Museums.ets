@@ -15,15 +15,18 @@ export struct Museums {
       Column() {
         AppBar();
         ArcList({ initialIndex: 1 }) {
-          ForEach(this.indexVm.menuModelList, (item: CategoryItemModel, index: number) => {
-            ArcListItem() {
-              SingleMenuItem({ item: item, isCircularImage: true })
-            }
-            .align(Alignment.Center)
-            .margin({ top: 10 })
-            .width('95%')
-
-          }, (index: number) => index.toString())
+          ForEach(
+            this.indexVm.menuModelList,
+            (item: CategoryItemModel) => {
+              ArcListItem() {
+                SingleMenuItem({ item: item, isCircularImage: true })
+              }
+              .align(Alignment.Center)
+              .margin({ top: 10 })
+              .width('95%')
+            },
+            (item: CategoryItemModel) => item.id
+          )
         }
         .width('100%')
         .height('100%')
@@ -38,5 +41,5 @@ export struct Museums {
     }
     .hideTitleBar(true)
     .hideBackButton(true)
-    }
+  }
 }

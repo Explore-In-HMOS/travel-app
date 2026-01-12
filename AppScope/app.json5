@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.travelapp",
+    "bundleName": "com.hmosdemos.wearable.travel_app",
     "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",

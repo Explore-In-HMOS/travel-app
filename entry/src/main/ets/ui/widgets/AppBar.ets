@@ -1,8 +1,8 @@
 @Entry
 @Component
 export struct AppBar {
-  @State timeZoneOffset: number =
-    -2; // For UTC+2 we give -2. We need to find a way to find current timezone of location.
+  // For UTC+2 we give -2. We need to find a way to find current timezone of location.
+  @State timeZoneOffset: number = -2;
   controller: TextClockController = new TextClockController();
 
   build() {

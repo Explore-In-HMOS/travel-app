@@ -1,6 +1,6 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit 
 
-# Travel App
+# travel-app
 
 This app showcases museum and restaurant listings with detailed descriptions, venue recommendations with images, hotel
 information, and smooth navigation between menus, developed for **HarmonyOS NEXT** using **ArkTS.**
@@ -8,10 +8,10 @@ information, and smooth navigation between menus, developed for **HarmonyOS NEXT
 # Preview
 
 <div>
-  <img src="Screenshots/Animated.gif" width="24%" />
-  <img src="Screenshots/Screenshot-1.png" width="24%" />
-  <img src="Screenshots/Screenshot-2.png" width="24%" />
-  <img src="Screenshots/Screenshot-3.png" width="24%" />
+  <img src="screenshots/Animated.gif" width="24%" />
+  <img src="screenshots/Screenshot-1.png" width="24%" />
+  <img src="screenshots/Screenshot-2.png" width="24%" />
+  <img src="screenshots/Screenshot-3.png" width="24%" />
 </div>
 
 # Use Cases
@@ -82,7 +82,7 @@ entry/src/main/ets/
         └── SingleMenuItem.ets          # Reusable menu item component
 ```
 
-# Constraints and Limitations
+# Constraints and Restrictions
 
 ## Suported Devices
 
@@ -90,5 +90,5 @@ entry/src/main/ets/
 
 # License
 
-**Travel App** is distributed under the terms of the MIT License
+**travel-app** is distributed under the terms of the MIT License
 See the [LICENSE](./LICENSE) for more information.
