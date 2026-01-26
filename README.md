@@ -8,10 +8,10 @@ information, and smooth navigation between menus, developed for **HarmonyOS NEXT
 # Preview
 
 <div>
-  <img src="screenshots/Animated.gif" width="24%" />
-  <img src="screenshots/Screenshot-1.png" width="24%" />
-  <img src="screenshots/Screenshot-2.png" width="24%" />
-  <img src="screenshots/Screenshot-3.png" width="24%" />
+  <img src="Screenshots/Animated.gif" width="24%" />
+  <img src="Screenshots/Screenshot-1.png" width="24%" />
+  <img src="Screenshots/Screenshot-2.png" width="24%" />
+  <img src="Screenshots/Screenshot-3.png" width="24%" />
 </div>
 
 # Use Cases
