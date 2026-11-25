@@ -3,7 +3,7 @@
 # travel-app
 
 This app showcases museum and restaurant listings with detailed descriptions, venue recommendations with images, hotel
-information, and smooth navigation between menus, developed for **HarmonyOS NEXT** using **ArkTS.**
+information, and smooth navigation between menus, developed for **HarmonyOS** using **ArkTS.**
 
 # Preview
 
@@ -17,7 +17,7 @@ information, and smooth navigation between menus, developed for **HarmonyOS NEXT
 # Use Cases
 
 The app is designed to provide an engaging way for users to explore cultural, dining, and travel information, making it
-easier to discover venues, view recommendations, and navigate between different categories on HarmonyOS NEXT. The
+easier to discover venues, view recommendations, and navigate between different categories on HarmonyOS. The
 following are the featured use cases:
 
 1. Museum and Restaurant Listings: Users can browse curated lists of museums and restaurants, each with detailed
@@ -30,8 +30,8 @@ following are the featured use cases:
    hotels, showcasing best practices in ArkTS development.
 5. UI/UX Inspiration: Designers and developers can reference the app for structuring multi-category listings with both
    text and visual content.
-6. Optimized for HarmonyOS NEXT: Built using ArkTS, the app demonstrates smooth performance and compatibility with
-   HarmonyOS NEXT devices, including wearables and mobile.
+6. Optimized for HarmonyOS: Built using ArkTS, the app demonstrates smooth performance and compatibility with
+   HarmonyOS devices, including wearables and mobile.
 
 # Tech Stack
 
